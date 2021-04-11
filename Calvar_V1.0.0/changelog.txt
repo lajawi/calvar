@@ -1,0 +1,19 @@
+
+	V1.0.0
+------------------
+Added:
+- fences
+- bushier leaves
+- fooliage
+- glazed terracotta
+- changed the texture of diamond armor and tools
+- own item model which resolves a stitching issue (heavily inspired by VanillaTweaks, check credits.txt)
+- dark UI (taken by VanillaTweaks following given rules on their Discord, which you can find a link to on their website in credits.txt)
+- 3D rails
+- hopper texture with arrow
+
+- emmisive textures (OptiFine needed)
+
+Unused additions:
+- creeper model (OptiFine needed)
+- 3D sapplings

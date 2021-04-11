@@ -1,0 +1,51 @@
+{
+	"credit": "Made by lajawi with Blockbench - https://blockbench.net",
+	"ambientocclusion": false,
+	"textures": {
+		"cap": "block/nether/crimson/fungus/crimson_fungus",
+		"stem": "block/nether/crimson/fungus/crimson_fungus_down"
+	},
+	"elements": [
+		{
+			"name": "Top Cap",
+			"from": [3, 8, 3],
+			"to": [9, 12, 9],
+			"rotation": {"angle": 0, "axis": "x", "origin": [6, 5, 5]},
+			"faces": {
+				"north": {"uv": [0, 0, 6, 4], "texture": "#cap"},
+				"east": {"uv": [0, 0, 6, 4], "texture": "#cap"},
+				"south": {"uv": [0, 0, 6, 4], "texture": "#cap"},
+				"west": {"uv": [0, 0, 6, 4], "texture": "#cap"},
+				"up": {"uv": [10, 3, 16, 9], "texture": "#cap"}
+			}
+		},
+		{
+			"name": "Bottom Cap",
+			"from": [1, 5, 1],
+			"to": [11, 8, 11],
+			"rotation": {"angle": 0, "axis": "x", "origin": [6, 5, 5]},
+			"faces": {
+				"north": {"uv": [6, 0, 16, 3], "texture": "#cap"},
+				"east": {"uv": [6, 0, 16, 3], "texture": "#cap"},
+				"south": {"uv": [6, 0, 16, 3], "texture": "#cap"},
+				"west": {"uv": [6, 0, 16, 3], "texture": "#cap"},
+				"up": {"uv": [0, 4, 10, 14], "texture": "#cap"},
+				"down": {"uv": [0, 0, 10, 10], "texture": "#stem"}
+			}
+		},
+		{
+			"name": "Stem",
+			"from": [5, 0, 5],
+			"to": [7, 5, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 2.5, 6]},
+			"faces": {
+				"north": {"uv": [14, 9, 16, 14], "texture": "#cap"},
+				"east": {"uv": [12, 9, 14, 14], "texture": "#cap"},
+				"south": {"uv": [14, 9, 16, 14], "texture": "#cap"},
+				"west": {"uv": [10, 9, 12, 14], "texture": "#cap"},
+				"up": {"uv": [14, 12, 16, 14], "texture": "#cap"},
+				"down": {"uv": [11, 12, 13, 14], "texture": "#cap"}
+			}
+		}
+	]
+}

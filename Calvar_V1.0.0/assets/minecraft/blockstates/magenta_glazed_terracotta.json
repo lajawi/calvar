@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "minecraft:block/terracotta/glazed/magenta/magenta_glazed_terracotta_east"
+    },
+    "facing=north": {
+      "model": "minecraft:block/terracotta/glazed/magenta/magenta_glazed_terracotta_north"
+    },
+    "facing=south": {
+      "model": "minecraft:block/terracotta/glazed/magenta/magenta_glazed_terracotta_south"
+    },
+    "facing=west": {
+      "model": "minecraft:block/terracotta/glazed/magenta/magenta_glazed_terracotta_west"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/template_leaves",
+    "textures": {
+        "block": "minecraft:block/leaves/dark_oak/dark_oak_leaves",
+        "bushy": "minecraft:block/leaves/dark_oak/dark_oak_leaves_bushy"
+    }
+}

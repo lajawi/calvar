@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/template_leaves",
+    "textures": {
+        "block": "minecraft:block/leaves/jungle/jungle_leaves",
+        "bushy": "minecraft:block/leaves/jungle/jungle_leaves_bushy"
+    }
+}

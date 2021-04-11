@@ -1,0 +1,80 @@
+{
+	"credit": "Made by lajawi with Blockbench - https://blockbench.net",
+	"texture_size": [32, 32],
+	"elements": [
+		{
+			"name": "Leaves (Default Cube)",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"color": 4,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#block", "tintindex": 0},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#block", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#block", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#block", "tintindex": 0},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#block", "tintindex": 0},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#block", "tintindex": 0}
+			}
+		},
+		{
+			"name": "Leaves (Bushy Planing)",
+			"from": [8.38268, -4, -4.07612],
+			"to": [8.38268, 20, 19.92388],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8.38268, 8, 7.92388]},
+			"color": 3,
+			"faces": {
+				"east": {"uv": [2, 2, 14, 14], "texture": "#bushy", "tintindex": 0},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#bushy", "tintindex": 0},
+				"west": {"uv": [2, 2, 14, 14], "texture": "#bushy", "tintindex": 0},
+				"up": {"uv": [0, 0, 0, 16], "texture": "#bushy", "tintindex": 0},
+				"down": {"uv": [0, 0, 0, 16], "texture": "#bushy", "tintindex": 0}
+			}
+		},
+		{
+			"name": "Leaves (Bushy Planing)",
+			"from": [-3.61732, -4, 7.92388],
+			"to": [20.38268, 20, 7.92388],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8.38268, 8, 7.92388]}, "rescale": true,
+			"color": 3,
+			"faces": {
+				"north": {"uv": [2, 2, 14, 14], "texture": "#bushy", "tintindex": 0},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#bushy", "tintindex": 0},
+				"south": {"uv": [2, 2, 14, 14], "texture": "#bushy", "tintindex": 0},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#bushy", "tintindex": 0},
+				"up": {"uv": [0, 0, 0, 16], "rotation": 270, "texture": "#bushy", "tintindex": 0},
+				"down": {"uv": [0, 0, 0, 16], "rotation": 90, "texture": "#bushy", "tintindex": 0}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 225, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

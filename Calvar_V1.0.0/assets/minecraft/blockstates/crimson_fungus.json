@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "": [
+            { "model": "minecraft:block/nether/crimson/fungus/single/0"},
+            { "model": "minecraft:block/nether/crimson/fungus/single/0_c"},
+            { "model": "minecraft:block/nether/crimson/fungus/single/0_c", "y": 90},
+            { "model": "minecraft:block/nether/crimson/fungus/single/0_c", "y": 180},
+            { "model": "minecraft:block/nether/crimson/fungus/single/0_c", "y": 270},
+            { "model": "minecraft:block/nether/crimson/fungus/single/0_r"},
+            { "model": "minecraft:block/nether/crimson/fungus/single/0_r2"},
+            { "model": "minecraft:block/nether/crimson/fungus/single/0_r45"},
+            { "model": "minecraft:block/nether/crimson/fungus/single/2"},
+            { "model": "minecraft:block/nether/crimson/fungus/single/2_c"},
+            { "model": "minecraft:block/nether/crimson/fungus/single/2_c", "y": 90},
+            { "model": "minecraft:block/nether/crimson/fungus/single/2_c", "y": 180},
+            { "model": "minecraft:block/nether/crimson/fungus/single/2_c", "y": 270},
+            { "model": "minecraft:block/nether/crimson/fungus/single/2_r"},
+            { "model": "minecraft:block/nether/crimson/fungus/single/2_r2"},
+            { "model": "minecraft:block/nether/crimson/fungus/single/2_r45"}
+        ]
+    }
+}
