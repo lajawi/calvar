@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated_tint",
+  "textures": {
+    "layer0": "minecraft:block/fern"
+  }
+}

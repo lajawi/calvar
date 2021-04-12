@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated_overlay_tintmap",
+    "textures": {
+        "layer0": "item/filled_map",
+        "layer1": "item/filled_map_markings"
+    }
+}
