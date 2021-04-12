@@ -53,3 +53,18 @@ are under the copyright of lajawi, unless otherwise stated on the
 CurseForge-site of this pack or permission by the creator, lajawi.
 
 ©lajawi 2021: All rights Reserved
+
+___
+# How to install
+___
+
+1. Download the resource pack, you should get a .zip file
+2. Open the folder to which you downloaded the file
+3. Copy the .zip file
+4. Open Minecraft
+5. In Minecraft, click on "Options", then "Resource Packs"
+6. Choose "Open resource pack folder"
+7. Paste the file into the resource folder in Minecraft
+8. Go back to Minecraft, the resource pack should now be listed (if not listed then go to the main menu by pressing Esc and repeat step 5) and you can activate it by choosing it and hitting "Done". The game will now reload itself.
+
+This snippet was taken from https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack#Any_platform, for more info and direct methods for the different softwares, Linux, MacOS and Windows, look at https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack#Direct_methods
