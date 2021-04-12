@@ -14,3 +14,4 @@ Added:
 ------------------
 Fixed:
 - tinted and overlayed item models; all items using multiple textures with overlay and/or using tinted textures have been fixed now
+- typo in copyright.txt
