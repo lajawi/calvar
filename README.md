@@ -15,6 +15,7 @@ Here are some notes to consider:
 - CurseForge:	https://www.curseforge.com/members/lajawi/projects
 - CurseForge Calvar: https://www.curseforge.com/minecraft/texture-packs/calvar
 - Discord:	https://discord.gg/fSyJ5m9YuT
+- Subreddit: https://www.reddit.com/r/Calvar/new/
 
 ## Credits
   
